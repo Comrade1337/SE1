@@ -1,4 +1,6 @@
 //учебная программа
+
+//Фоменко, Рыженко КЭ-417, 2022
 #include <iostream>
 
 using namespace std;
@@ -12,5 +14,7 @@ int main()
     cout << "Enter Y: "; cin>>y;
 
     cout << "X + Y = "<<x+y<<endl;
+    cout << "X - Y = "<<x-y<<endl;
+    cout << "X * Y = "<<x*y<<endl;
     return 0;
 }
